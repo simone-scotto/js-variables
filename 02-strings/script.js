@@ -12,9 +12,9 @@ console.log(name);
 // Stampa tutti i valori nella console.
 
 
-let number = "28";
+let number = 28;
 let text ="scotto";
-let bool = "true";
+let bool = true;
 
 console.log(number);
 console.log(text);
